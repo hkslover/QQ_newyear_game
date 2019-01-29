@@ -20,7 +20,7 @@
 
 ## 部分使用截图
 
-[](http://ww1.sinaimg.cn/large/0072BNKcly1fznfcxwer0j30w60m7juk.jpg)
+![](http://ww1.sinaimg.cn/large/0072BNKcly1fznfcxwer0j30w60m7juk.jpg)
 
 ## 写在最后
 
